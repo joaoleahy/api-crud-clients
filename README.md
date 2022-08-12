@@ -1,6 +1,8 @@
 # DS Client
 Projeto realizado no bootcamp Spring DS.
 
+![apidsclient](https://user-images.githubusercontent.com/86070920/184419689-79e28bde-8bd1-4af1-92d8-ff317533f164.png)
+
 
 🚀 Tecnologias
 
